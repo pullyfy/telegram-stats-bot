@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# DB
+*.db
+
+# secrets
+token.txt
+proxy.txt
+
+# env
+.env
+
+# IDE
+.vscode/
+.idea/
